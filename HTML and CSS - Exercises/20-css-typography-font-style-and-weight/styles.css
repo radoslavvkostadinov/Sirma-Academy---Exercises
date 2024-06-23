@@ -1,0 +1,23 @@
+.first {
+    font-style: normal;
+    font-weight: bold;
+}
+.second {
+    font-style:oblique;
+    font-weight: bolder;
+}
+
+.third {
+    font-style:initial;
+    font-weight:lighter;
+}
+
+.fourth {
+    font-style:unset;
+    font-weight:900;
+}
+
+.fifth {
+    font-style:inherit;
+    font-weight:800;
+}

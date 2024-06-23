@@ -1,0 +1,18 @@
+.first {
+  text-align: start;
+}
+.second {
+    text-align: end;
+}
+
+.third {
+    text-align: center;
+}
+
+.fourth {
+    text-align: justify;
+}
+
+.fifth {
+    text-align:right;
+}
