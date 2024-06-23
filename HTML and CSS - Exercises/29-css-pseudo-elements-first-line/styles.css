@@ -1,0 +1,27 @@
+.first::first-line {
+    background-color: yellow;
+}
+
+.second::first-line {
+    background-color: rgb(255, 106, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.third::first-line {
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+.fourth::first-line {
+    font-size: xx-small;
+    font-weight: lighter;
+}
+
+.fifth::first-line {
+    font-style: italic;
+    font-size: 20px;
+}
+
+h1 {
+    background-color: antiquewhite;
+}

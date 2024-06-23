@@ -1,0 +1,28 @@
+.first {
+    border-style: solid;
+    border-color: red;
+}
+
+.second {
+    border-style: solid;
+    border-color: green;
+}
+
+.third {
+    border-style: dotted;
+    border-color: blue;
+}
+
+.fourth {
+    border-style: groove;
+    border-color: rgb(255, 0, 225);
+}
+
+.fifth {
+    border-style: double;
+    border-color: rgb(187, 255, 0);
+}
+
+h1 {
+    color: rgb(31, 29, 27);
+}

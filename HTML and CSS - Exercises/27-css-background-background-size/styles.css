@@ -1,0 +1,33 @@
+.first {
+    background-image:url(./images/1.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+  }
+  .second {
+    background-image:url(./images/2.jpg);
+    background-repeat: no-repeat;
+    background-size: 300px 100px;
+  }
+  
+  .third {
+    background-image:url(./images/3.jpg);
+    background-repeat: repeat;
+    background-size: 300px 100px;
+  }
+  
+  .fourth {
+    background-image:url(./images/2.jpg);
+    background-repeat: repeat;
+    background-size: cover;
+  }
+  
+  .fifth {
+    background-image:url(./images/1.jpg);
+    background-repeat: repeat;
+    background-size: contain;
+  }
+
+  body {
+    background-color: rgb(230, 136, 13);
+    color: aliceblue;
+  }

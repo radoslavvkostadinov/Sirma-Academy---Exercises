@@ -1,0 +1,22 @@
+.first {
+    background-color: aquamarine;
+  }
+  .second {
+    background-color: rgb(200, 255, 127);
+  }
+  
+  .third {
+    background-color: rgb(255, 178, 127);
+  }
+  
+  .fourth {
+    background-color: rgb(127, 255, 176);
+  }
+  
+  .fifth {
+    background-color: rgb(172, 127, 255);
+  }
+
+  h1 {
+    background-color: antiquewhite;
+  }

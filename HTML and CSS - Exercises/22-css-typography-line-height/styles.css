@@ -1,0 +1,19 @@
+.first {
+    line-height: normal;
+}
+
+.second {
+    line-height: 1.6;
+}
+
+.third {
+    line-height: 50%;
+}
+
+.fourth {
+    line-height: 200%;
+}
+
+.fifth {
+    line-height: 2.7
+}
