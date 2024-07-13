@@ -1,0 +1,15 @@
+#list-app {
+    border: 3px double rgb(84, 84, 84);
+    width: 40%;
+    padding: 10px;
+    background-color:moccasin;
+}
+
+.delete-item {
+    padding: 1px;
+    margin-left: 20px;
+}
+
+li {
+    margin: 3px;
+}
